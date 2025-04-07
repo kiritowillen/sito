@@ -32,7 +32,7 @@ const RESOURCES = {"assets/assets/images/CI_Spese.png": "d027d06950d6d7d06a7644d
 "assets/fonts/MaterialIcons-Regular.otf": "c0ad29d56cfe3890223c02da3c6e0448",
 "assets/AssetManifest.json": "2d98822a827c243094d029f8552652e4",
 "version.json": "f124181e58b12572810925130e6735b8",
-"flutter_bootstrap.js": "fff36445032cffb1947d7728afefe576",
+"flutter_bootstrap.js": "8941c935e13c9612224d1e9880f77580",
 "main.dart.js": "cbe176d9049d574cdaf651fb25a3ab95",
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "canvaskit/canvaskit.js.symbols": "68eb703b9a609baef8ee0e413b442f33",
